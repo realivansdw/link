@@ -26,7 +26,7 @@ var defaults = {
     popunder: false,
     protocol: "http",
     nofollow: false,
-    cdn: "yourjavascript.com"
+    cdn: "cdn.rawgit.com"
 };
 if (s == "adult") {
     defaults.domain = "zo.ee";
